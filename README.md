@@ -1,1 +1,1 @@
-# German_Loan_Prediction-UCI-Dataset-
+# German_Loan_Classification-UCI-Dataset-
